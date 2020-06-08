@@ -3,3 +3,4 @@ remotetests/testconfig.js
 testdir.zip
 test.zip
 *.tgz
+DS_Store
